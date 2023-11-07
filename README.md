@@ -43,9 +43,9 @@ Here's how to test this app:
 
 test_app.py contains some simple tests to ensure basic working of the app. To us test_app.py:
 
-    ```
+    
     python -m unittest test_app.py
-    ```
+    
     
 
 ## Usage
