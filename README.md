@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them:
+What things you need before using this repo:
 
 - Docker
 - Python 3.9 or later
